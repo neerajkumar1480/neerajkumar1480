@@ -1,52 +1,22 @@
-# Hi, I'm Neeraj Kumar — aspiring software engineer 👋
+# Hi, I'm Neeraj Kumar 👋
 
-🎓 B.Tech Student in **Computer Science Engineering (Artificial Intelligence & Data Science)**
-🏫 Studying at **JECRC University**
+🎓 B.Tech Student in **Computer Science Engineering (AI & Data Science)** at **JECRC University**
 📍 Jaipur, India
 
----
+💻 Aspiring **Software Engineer** passionate about **Web Development** and **Artificial Intelligence**.
 
-## 🚀 About Me
+## 🚀 Skills
 
-* 🎓 1st Year B.Tech Student
-* 💻 Passionate about **Web Development** and **Artificial Intelligence**
-* 🌱 Currently learning **Web Development & AI**
-* 🧠 Interested in building useful and practical applications
+* **Languages:** C++, C, Python
+* **Technologies:** HTML, CSS, JavaScript, Firebase
 
----
+## 🌱 Currently Learning
 
-## 🛠️ Skills & Technologies
+* Web Development
+* Artificial Intelligence
 
-**Programming Languages**
+## 🎮 Interests
 
-* C++
-* C
-* Python
-
-**Technologies**
-
-* HTML
-* CSS
-* JavaScript
-* Firebase
-* AI Tools
-
----
-
-## 🎯 Interests
-
-* 🌐 Web Development
-* 🤖 AI / Machine Learning
-* 🛠️ Building useful apps
-
----
-
-## 🎮 Fun Facts
-
-* 🎮 I enjoy gaming
-* 🎬 I love watching anime
-* 📚 Always learning new technologies
-
----
-
-⭐ *Thanks for visiting my GitHub profile!*
+* Gaming
+* Anime
+* Learning new technologies
